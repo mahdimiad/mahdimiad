@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+I’m Mahdi Miad, a Software Developer and SaaS Founder with over 15 years of experience building scalable web and mobile applications that help businesses streamline operations. I’ve led teams and delivered solutions across ERP, logistics, and digital payments.
+
+As the founder of Djib Smart, I developed SaaS platforms that served SMEs in transport and logistics, and I was Head of IT at D-Money / Djibouti Telecom, I drove major projects in telecom and fintech. I’m now focused on creating innovative apps for productivity, collaboration, and workflow automation.
+
+My expertise spans React Native, Laravel, PHP, MySQL, Supabase,  UI/UX (Figma, Tailwind CSS), and API integrations with AI-driven automation. I share insights on business and IT on my YouTube channel and welcome connections with those building impactful SaaS and AI solutions.
+
+ 
+
 <!--
 **mahdimiad/mahdimiad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
